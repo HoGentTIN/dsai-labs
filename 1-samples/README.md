@@ -27,7 +27,7 @@
 ## Lab 1.2 - Android Persistence
 
 1. Create a new Jupyter Notebook file for this lab, copy the imports and load the dataset `data/android_persistence.csv`. See the [description](../data/android_persistence_cpu.md) for more info on the contents. Note this file is not stored as a regular CSV file!
-2. Exploring the dataset:
+2. Explore the dataset:
     - How many variables and observations are present in the dataset?
     - What is the level of measurement of each variable?
     - Perform the conversion of the qualitative variables to the appropriate type (and specify the order of ordinal variables).
