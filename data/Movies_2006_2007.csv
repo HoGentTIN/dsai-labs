@@ -1,0 +1,213 @@
+Index;Movie;Distributor;Genre;7-day Gross;14-day Gross;Total US Gross;International Gross;US DVD Sales;Budget
+1;The Texas Chainsaw Massacre: The Beginning;New Line;Horror;$22 707 121;$32 109 139;$39 517 763;$11 000 000;$15 909 367;$16 000 000
+2;Year of the Dog;Paramount Vantage;Drama;$141 803;$318 598;$1 540 141;;;
+3;War;Lionsgate;Action;$12 839 402;;$22 466 994;$18 200 000;$27 040 983;$25 000 000
+4;Stomp the Yard;Sony Pictures;Drama;$28 263 594;$42 853 277;$61 356 221;$15 000 000;$33 166 898;$14 000 000
+5;The Illusionist;Freestyle Releasing;Drama;;;$39 868 642;$44 407 533;$38 189 217;$16 500 000
+6;Pirates of the Caribbean: At World's End;Buena Vista;Adventure;$173 339 068;$232 297 818;$309 420 425;$651 576 067;$295 701 718;$300 000 000
+7;Sicko;Weinstein Co.;Documentary;;;$24 538 513;$9 000 000;$17 375 592;$9 000 000
+8;Babel;Paramount Vantage;Drama;;;$34 302 837;$101 000 000;$31 456 221;$20 000 000
+9;Ghost Rider;Sony Pictures;Action;$58 960 097;$83 257 376;$115 802 596;$121 900 000;$103 699 106;$120 000 000
+10;Saw III;Lionsgate;Horror;$44 576 835;$63 279 443;$80 238 724;$83 638 091;$47 124 617;$10 000 000
+11;World Trade Center;Paramount Pictures;Drama;;;$70 278 893;$93 000 000;$36 856 697;$65 000 000
+12;Beerfest;Warner Bros.;Comedy;$10 151 951;$15 786 241;$19 185 184;$974 132;$28 372 842;
+13;Ocean's Thirteen;Warner Bros.;Adventure;$50 705 336;$79 668 309;$117 144 465;$194 600 000;$47 716 836;$85 000 000
+14;Amazing Grace;Samuel Goldwyn Films;Drama;$5 200 372;;$21 214 987;$6 771 432;$25 275 167;
+15;Shrek the Third;Paramount Pictures;Adventure;$150 338 458;$227 906 792;$322 719 944;$476 238 218;$174 342 569;$160 000 000
+16;The Holiday;Sony Pictures;Romantic Comedy;$17 110 339;$30 092 962;$63 280 000;$141 910 324;$71 202 459;$85 000 000
+17;Deck the Halls;20th Century Fox;Comedy;;;$35 093 569;$12 137 501;$28 291 848;
+18;The Namesake;Fox Searchlight;Drama;$361 518;$1 333 480;$13 610 521;$6 569 588;$9 345 626;
+19;D‚j… Vu;Buena Vista;Thriller/Suspense;;;$64 038 616;$117 000 000;$40 473 916;$80 000 000
+20;Running With Scissors;Sony Pictures;Comedy;;$3 660 628;$6 775 659;$437 970;$1 877 732;$12 000 000
+21;Ratatouille;Buena Vista;Comedy;$80 517 305;$124 984 886;$206 445 654;$418 000 000;$189 036 784;$150 000 000
+22;The Hills Have Eyes II;Fox Searchlight;Horror;$11 883 609;$17 579 582;$20 804 166;$16 662 372;$30 466 195;$15 000 000
+23;Fast Food Nation;Fox Searchlight;Drama;$580 363;$853 713;$1 005 539;;;
+24;Nancy Drew;Warner Bros.;Thriller/Suspense;$11 687 594;$19 334 739;$25 584 685;$5 000 000;$10 392 745;
+25;28 Weeks Later;20th Century Fox;Horror;$13 460 756;$21 121 250;$28 638 916;$35 599 524;$24 333 111;
+26;The Condemned;Lionsgate;Action;$4 947 445;$6 769 217;$7 371 706;;;
+27;Employee of the Month;Lionsgate;Comedy;$14 310 416;$21 038 727;$28 444 855;$9 672 863;$21 061 839;$10 000 000
+28;Man of the Year;Universal;Comedy;$15 480 880;$24 146 540;$37 442 180;;;
+29;The Bourne Ultimatum;Universal;Action;$98 673 300;$144 820 320;$227 471 070;$214 690 492;$123 288 965;$130 000 000
+30;All the King's Men;Sony Pictures;Drama;$4 686 955;;$7 221 458;$2 300 000;;$55 000 000
+31;Turistas;20th Century Fox;Thriller/Suspense;$4 540 030;$6 437 413;$7 027 762;$7 293 308;$3 507 046;$10 000 000
+32;I Now Pronounce You Chuck and Larry;Universal;Comedy;$52 547 115;$81 169 105;$119 725 280;$65 983 182;$69 258 990;$85 000 000
+33;Fantastic Four: Rise of the Silver Surfer;20th Century Fox;Action;$77 453 559;$105 800 808;$131 921 738;$156 293 581;$62 251 422;$120 000 000
+34;The Nativity Story;New Line;Drama;$10 239 000;$18 373 000;$37 629 831;$8 802 433;$26 111 634;$35 000 000
+35;Thank You For Smoking;Fox Searchlight;Black Comedy;;;$24 793 509;$14 438 702;$16 644 189;$7 500 000
+36;Casino Royale;MGM;Action;$63 267 784;$100 763 154;$167 365 000;$429 000 000;$79 665 820;$102 000 000
+37;Miami Vice;Universal;Action;$36 056 785;$50 564 950;$63 478 838;$100 339 718;$37 640 111;$135 000 000
+38;The Transformers;Paramount Pictures;Action;;$228 950 080;$319 246 193;$389 026 399;$290 541 120;$151 000 000
+39;Unaccompanied Minors;Warner Bros.;Comedy;$6 547 915;;$16 655 224;$5 293 990;$7 035 302;$25 000 000
+40;Hannibal Rising;Weinstein Co.;Thriller/Suspense;$16 662 340;$24 157 310;$27 669 725;$52 913 586;$23 317 001;$50 000 000
+41;Pride;Lionsgate;Drama;$4 295 317;;$7 057 600;;;
+42;The Ant Bully;Warner Bros.;Adventure;$14 260 551;$20 610 757;$28 142 535;$27 038 594;$28 487 251;$45 000 000
+43;Surf's Up;Sony Pictures;Adventure;$25 370 697;$40 612 980;$58 867 694;$86 528 051;$46 067 803;$100 000 000
+44;Material Girls;MGM;Comedy;$6 190 228;;$11 449 638;$1 000 000;$12 117 535;
+45;Daddy Day Camp;Sony Pictures;Comedy;;;$13 235 267;$4 962 131;$5 394 066;$76 000 000
+46;Pulse;Weinstein/Dimension;Horror;$11 176 099;$16 228 598;$20 264 436;$9 507 049;;$7 500 000
+47;Vacancy;Sony/Screen Gems;Thriller/Suspense;$9 667 558;$14 985 909;$19 063 007;$5 300 000;$15 476 934;
+48;TMNT;Weinstein Co.;Action;$29 268 284;$41 781 886;$54 149 098;$40 860 790;$30 361 634;$35 000 000
+49;Invincible;Buena Vista;Drama;$22 640 843;$39 870 508;$57 806 952;$673 876;$48 056 452;
+50;Flyboys;MGM;Drama;$7 595 128;$10 794 574;$13 090 630;$1 725 749;$23 600 109;$60 000 000
+51;Mr. Brooks;MGM;Thriller/Suspense;$13 682 301;$20 621 219;$28 476 219;$17 512 793;$29 822 828;
+52;Sunshine;Fox Searchlight;Thriller/Suspense;$362 501;$2 235 239;$3 688 560;$28 342 050;$6 319 960;$40 000 000
+53;The Fountain;Warner Bros.;Drama;;;$10 144 010;$5 317 628;$8 742 316;$35 000 000
+54;Clerks II;MGM;Comedy;;$20 987 916;$24 148 068;$1 746 405;$26 390 836;$5 000 000
+55;Pan's Labyrinth;PictureHouse;Horror;;;$37 634 615;$45 600 000;$40 752 599;$16 000 000
+56;John Tucker Must Die;20th Century Fox;Comedy;$22 572 760;$32 751 462;$41 011 711;$27 812 815;$32 656 099;
+57;Little Man;Sony Pictures;Comedy;;;$58 636 047;$43 000 000;$32 683 684;$64 000 000
+58;Hot Fuzz;Focus Features;Comedy;$7 724 188;$14 090 753;$23 618 786;$55 578 707;$33 365 115;$16 000 000
+59;Norbit;Paramount Pictures;Comedy;$42 082 178;$64 938 373;$95 673 607;$63 300 000;$44 106 290;
+60;Superbad;Sony Pictures;Comedy;$50 572 274;$76 834 795;$121 463 226;$48 400 000;$134 374 749;$17 500 000
+61;Spider-Man 3;Sony Pictures;Adventure;$182 070 572;$253 357 629;$336 530 303;$554 341 323;$123 997 036;$258 000 000
+62;Next;Sony Pictures;Action;$9 066 641;$13 000 019;$18 211 013;$55 380 487;$18 978 879;
+63;Superman Returns;Warner Bros.;Adventure;;;$200 120 000;$191 000 000;$81 570 819;$232 000 000
+64;X-Men: The Last Stand;20th Century Fox;Action;;;$234 362 462;$224 997 093;$103 539 395;$150 000 000
+65;The Queen;Miramax;Drama;;;$56 441 711;$66 398 892;$29 155 509;$15 000 000
+66;The Descent;Lionsgate;Thriller/Suspense;$12 927 112;$19 882 850;$26 024 456;$31 005 153;$22 436 857;$7 000 000
+67;Perfect Stranger;Sony Pictures;Thriller/Suspense;$13 968 118;$19 418 295;$23 760 822;$38 765 566;$23 711 660;
+68;Freedom Writers;Paramount Pictures;Drama;$11 323 827;$21 317 621;$36 605 602;$6 485 139;$20 489 423;$21 000 000
+69;The Ex;Weinstein Co.;Romantic Comedy;$1 944 838;;$3 091 922;$646 700;$1 827 435;
+70;Are We Done Yet?;Sony Pictures;Comedy;;;$49 662 533;$8 725 535;$22 928 049;
+71;Waitress;Fox Searchlight;Drama;;;$19 097 550;$3 104 630;$23 084 465;$1 500 000
+72;Georgia Rule;Universal;Drama;$9 121 575;$14 424 970;$18 882 880;$1 936 721;$19 347 243;$20 000 000
+73;Iraq in Fragments;Typecast Releasing;Documentary;;;$204 462;;;
+74;Lady in the Water;Warner Bros.;Drama;;$35 922 083;$42 285 169;$30 500 000;$12 428 204;$75 000 000
+75;Once;Fox Searchlight;Drama;;;$9 445 857;$9 551 317;;$150 000
+76;Disturbia;Paramount Pictures;Thriller/Suspense;$27 194 364;$43 085 763;$80 209 692;$37 363 351;$34 408 161;$20 000 000
+77;Balls of Fury;Focus Features;Comedy;;;$32 886 940;$7 991 682;$19 013 476;
+78;Idiocracy;20th Century Fox;Comedy;$234 596;$351 327;$444 093;$41 106;;
+79;Hot Rod;Paramount Pictures;Comedy;$8 792 476;$12 534 240;$13 938 332;$396 069;$23 972 256;$25 000 000
+80;Ice Age: The Meltdown;20th Century Fox;Adventure;;;$195 330 621;$456 568 661;$131 324 982;$75 000 000
+81;The Covenant;Sony/Screen Gems;Thriller/Suspense;$11 013 531;$17 004 815;$23 364 784;$14 800 000;$26 301 459;$20 000 000
+82;Barnyard: The Original Party Animals;Paramount Pictures;Comedy;$24 016 098;$38 506 651;$72 779 000;$43 839 084;$64 992 667;$51 000 000
+83;Day Watch;Fox Searchlight;Action;$68 234;$166 581;$459 095;$38 411 815;$4 060 608;
+84;How to Eat Fried Worms;New Line;Drama;$5 571 313;;$13 040 527;$55 787;$16 841 759;
+85;Everyone's Hero;20th Century Fox;Adventure;$6 844 371;$12 125 203;$14 523 101;$1 596 538;$5 943 446;
+86;The Marine;20th Century Fox;Action;$8 822 674;$13 555 127;$18 844 784;$3 320 824;$26 752 947;$15 000 000
+87;School for Scoundrels;Weinstein Co.;Comedy;$10 554 778;$15 065 677;$17 807 569;;;$20 000 000
+88;Black Christmas;Miramax/Dimension;Horror;;;$16 235 738;;;$9 000 000
+89;The Devil Wears Prada;20th Century Fox;Comedy;;;$124 740 460;$201 810 634;$95 831 660;$35 000 000
+90;The Nanny Diaries;Weinstein Co.;Comedy;$10 151 376;;$25 926 673;$20 064 522;$37 541 232;
+91;Blood Diamond;Warner Bros.;Action;$12 119 786;$22 002 750;$57 377 916;$114 000 000;$62 525 527;$100 000 000
+92;Reign Over Me;Sony Pictures;Drama;$9 630 847;$14 896 332;$19 661 987;$420 000;$15 941 535;$20 000 000
+93;The Black Dahlia;Universal;Thriller/Suspense;$12 820 690;$18 613 540;$22 672 813;$24 000 000;$12 345 224;$60 000 000
+94;Reno 911!: Miami;20th Century Fox;Comedy;$12 662 896;$17 729 833;$20 342 161;;;
+95;Live Free or Die Hard;20th Century Fox;Action;;$88 674 537;$134 529 403;$249 002 061;$100 735 780;$110 000 000
+96;Trust the Man;Fox Searchlight;Comedy;$255 827;$655 122;$1 530 535;$1 017 843;;$9 000 000
+97;The Wicker Man;Warner Bros.;Thriller/Suspense;$13 371 125;$18 628 666;$24 413 467;$13 308 360;;
+98;The Astronaut Farmer;Warner Bros.;Drama;$5 580 399;$8 338 517;$11 003 643;;;$13 000 000
+99;Tenacious D in: The Pick of Destiny;New Line;Comedy;;;$8 334 575;$5 100 000;$6 035 460;
+100;Pirates of the Caribbean: Dead Man's Chest;Buena Vista;Adventure;;;$423 315 812;$642 344 000;$320 671 450;$225 000 000
+101;Smokin' Aces;Universal;Comedy;$18 630 955;$27 061 120;$35 662 731;$20 384 530;$35 769 990;$17 000 000
+102;License to Wed;Warner Bros.;Comedy;;$31 442 050;$43 792 641;$27 000 000;$22 727 928;$35 000 000
+103;Grindhouse;Weinstein/Dimension;Horror;$15 460 828;$21 320 000;$25 031 037;$25 156 752;$31 032 170;$53 000 000
+104;Pathfinder;20th Century Fox;Adventure;$6 360 568;$8 895 535;$10 232 081;$20 590 780;$27 357 887;
+105;The Simpsons Movie;20th Century Fox;Comedy;$102 949 705;$141 112 342;$183 135 014;$343 936 008;$96 337 909;$72 500 000
+106;Operation Homecoming;The Documentary Group;Documentary;$6 795;;$6 795;;;
+107;The Omen;20th Century Fox;Horror;;;$54 607 383;$65 000 000;$10 459 743;$25 000 000
+108;Catch and Release;Sony Pictures;Romantic Comedy;$9 311 010;$12 646 624;$15 432 542;;;
+109;Away From Her;Lionsgate;Drama;;;$4 548 331;;;
+110;Knocked Up;Universal;Romantic Comedy;$46 223 940;$75 946 815;$148 761 765;$70 232 344;$117 411 877;$27 500 000
+111;Jet Li's Fearless;Focus/Rogue Pictures;Drama;$13 083 004;$19 461 440;$24 633 730;$42 000 000;$30 497 752;
+112;The Guardian;Buena Vista;Action;$22 751 717;$35 265 924;$55 011 732;$32 000 000;$53 922 172;
+113;Water;Fox Searchlight;Drama;;;$5 529 144;$2 590 061;;
+114;Accepted;Universal;Comedy;$14 641 880;$23 510 200;$36 580 083;$1 734 720;$37 827 956;
+115;Music and Lyrics;Warner Bros.;Romantic Comedy;;;$50 572 589;$94 983 557;$21 129 239;$40 000 000
+116;You, Me and Dupree;Universal;Comedy;;;$75 802 010;$54 600 000;$41 628 625;$54 000 000
+117;Eragon;20th Century Fox;Adventure;$30 495 702;$48 213 849;$75 030 163;$174 457 952;$87 654 390;$100 000 000
+118;Primeval;Buena Vista;Adventure;$7 716 473;;$10 597 734;$1 000 000;$4 982 989;
+119;Night at the Museum;20th Century Fox;Comedy;$79 055 249;$140 096 754;$250 863 268;$323 617 573;$153 286 880;$110 000 000
+120;Evan Almighty;Universal;Comedy;$45 535 600;$69 987 650;$100 289 690;$72 929 590;$37 997 932;$175 000 000
+121;Black Snake Moan;Paramount Vantage;Drama;$5 410 053;$8 079 470;$9 396 870;;;$15 000 000
+122;No Reservations;Warner Bros.;Romantic Comedy;$17 586 828;$28 169 989;$43 107 979;$49 000 000;$26 948 545;$28 000 000
+123;Meet the Robinsons;Buena Vista;Adventure;$35 231 834;$59 900 752;$97 822 171;$71 510 807;$78 345 374;
+124;A Good Year;20th Century Fox;Drama;$4 799 687;$6 851 054;$7 459 300;$34 604 805;$7 342 760;$35 000 000
+125;One Night with the King;Rocky Mountain Pictures;Drama;$5 307 651;;$13 395 961;;;$20 000 000
+126;Hostel: Part II;Lionsgate;Horror;$11 191 000;$16 040 871;$17 544 812;$16 061 597;$16 167 194;$7 500 000
+127;Stranger Than Fiction;Sony Pictures;Comedy;$16 300 147;$26 778 068;$40 435 190;$4 800 000;$30 880 666;$30 000 000
+128;We Are... Marshall;Warner Bros.;Drama;$17 038 381;$30 289 979;$43 545 364;;;
+129;Rush Hour 3;New Line;Action;$66 323 168;$96 763 003;$140 125 968;$112 900 000;$40 775 094;$180 000 000
+130;Flicka;20th Century Fox;Drama;$9 163 221;$14 900 036;$21 000 147;$893 444;$49 920 014;$15 000 000
+131;Dreamgirls;Paramount Pictures;Musical;;$22 964 345;$103 365 956;$51 600 000;$53 661 766;$75 000 000
+132;Children of Men;Universal;Adventure;;;$35 552 383;$33 897 819;$25 338 142;$76 000 000
+133;Bobby;Weinstein Co.;Drama;$1 242 622;$7 204 245;$11 205 901;$8 667 942;$12 345 494;
+134;Underdog;Buena Vista;Adventure;$18 290 912;$28 078 697;$43 760 605;$21 540 742;$38 478 972;
+135;Flushed Away;Dreamworks SKG;Comedy;$23 220 769;$41 991 571;$64 665 672;$113 000 000;$70 937 146;$149 000 000
+136;Jackass: Number Two;Paramount Pictures;Comedy;$37 465 379;$56 293 371;$72 778 712;$10 800 000;$49 039 094;$11 000 000
+137;Confetti;Fox Searchlight;Romantic Comedy;$29 623;$190 312;$228 498;$4 506 731;;
+138;The Invisible;Buena Vista;Thriller/Suspense;$9 221 338;$13 343 836;$20 568 319;$2 971 947;$13 668 418;
+139;Borat;20th Century Fox;Comedy;$38 841 865;$76 154 492;$128 505 958;$133 066 786;$62 652 669;$18 000 000
+140;Wild Hogs;Buena Vista;Comedy;$49 415 325;$85 167 997;$168 213 584;$84 800 000;$92 291 863;
+141;The Grudge 2;Sony Pictures;Horror;$23 680 202;$32 715 981;$39 143 839;$29 500 000;$8 293 678;$20 000 000
+142;Evening;Focus Features;Drama;;$9 668 000;$12 406 646;$478 928;;
+143;The Invasion;Warner Bros.;Thriller/Suspense;$8 374 693;$12 611 955;$15 074 191;$25 072 851;$4 845 361;$80 000 000
+144;The Good Shepherd;Universal;Drama;$24 065 985;$41 897 680;$59 908 565;$35 468 177;$33 880 479;
+145;La Vie en Rose;PictureHouse;Drama;;$3 144 035;$10 299 782;$73 200 000;;$15 500 000
+146;Fracture;New Line;Thriller/Suspense;$14 260 545;$23 032 218;$38 989 507;$50 200 000;$22 208 165;
+147;Monster House;Sony Pictures;Adventure;;$50 951 765;$73 661 010;$66 500 000;$71 541 095;$75 000 000
+148;Zoom;Sony Pictures;Adventure;$6 607 544;;$11 989 328;$516 860;$6 679 409;$35 000 000
+149;Lucky You;Warner Bros.;Drama;$3 622 974;$5 329 749;$5 755 286;$766 543;$853 973;$55 000 000
+150;1408;Miramax/Dimension;Horror;$29 779 254;$46 649 346;$71 985 628;$56 543 671;$49 635 451;$22 500 000
+151;Bridge to Terabithia;Buena Vista;Drama;$32 648 034;$49 302 632;$82 234 139;$54 700 000;$41 355 482;$25 000 000
+152;Apocalypto;Buena Vista;Adventure;$20 201 406;$31 724 156;$50 866 635;$66 918 416;$43 279 287;$40 000 000
+153;Bratz;Lionsgate;Comedy;$6 146 369;;$10 010 209;$15 737 014;$39 102 832;
+154;My Super Ex-Girlfriend;20th Century Fox;Comedy;;$19 118 663;$22 530 295;$38 000 000;;
+155;Bug;Lionsgate;Drama;$4 871 655;$6 740 839;$7 006 708;;;$4 000 000
+156;The Prestige;Buena Vista;Thriller/Suspense;$19 207 527;$31 630 273;$53 089 891;$54 806 115;$45 348 399;$40 000 000
+157;Stardust;Paramount Pictures;Adventure;$13 842 551;$22 501 872;$38 634 938;$96 921 737;$25 077 781;$70 000 000
+158;Happy Feet;Warner Bros.;Musical;$62 178 720;$103 955 600;$198 000 317;$187 000 000;$203 202 864;$85 000 000
+159;Alpha Dog;Universal;Drama;$8 796 815;;$15 242 450;$12 977 992;$12 376 741;
+160;Epic Movie;20th Century Fox;Comedy;$21 143 563;$31 024 169;$39 739 367;$47 119 211;$16 820 895;$20 000 000
+161;Blades of Glory;Paramount Pictures;Comedy;$45 382 907;$76 130 018;$118 594 548;$27 000 000;$49 169 389;$61 000 000
+162;Dead Silence;Universal;Horror;$9 775 725;$14 145 450;$16 574 590;$4 040 071;$16 762 012;
+163;Delta Farce;Lionsgate;Comedy;$4 285 912;$6 692 207;$8 130 530;;;
+164;The Messengers;Sony Pictures;Horror;$17 524 018;$26 708 505;$35 374 833;$18 400 000;$15 902 523;
+165;I Know Who Killed Me;Sony/TriStar;Thriller/Suspense;$5 066 322;;$7 233 485;;;
+166;Who's Your Caddy?;MGM;Comedy;$3 711 337;;$5 694 308;;;
+167;Notes on a Scandal;Fox Searchlight;Drama;;;$17 510 118;$32 242 273;$8 957 029;
+168;I Think I Love My Wife;Fox Searchlight;Comedy;$7 279 181;$10 899 186;$12 559 771;$645 640;$13 549 608;$14 000 000
+169;Charlotte's Web;Paramount Pictures;Drama;$18 809 466;$40 857 817;$82 985 708;$61 000 000;$83 550 733;$82 500 000
+170;The Last Kiss;Paramount Pictures;Romantic Comedy;$5 936 292;$9 188 774;$11 614 790;;;
+171;Because I Said So;Universal;Comedy;$16 584 590;$28 257 665;$42 674 040;$26 205 530;$23 917 497;
+172;Unconscious;Regent Releasing;Comedy;;;$68 501;;;
+173;Shooter;Paramount Pictures;Thriller/Suspense;$19 211 919;$30 855 582;$47 003 582;$48 200 000;$57 244 093;$60 000 000
+174;Gridiron Gang;Sony Pictures;Drama;$17 501 040;$28 676 742;$38 432 823;$3 048 028;$33 990 308;$30 000 000
+175;Hairspray;New Line;Musical;$43 858 000;$69 629 420;$118 823 091;$84 000 000;$104 029 214;$75 000 000
+176;Zodiac;Paramount Pictures;Thriller/Suspense;$16 954 103;$25 849 997;$33 080 084;$50 000 000;$20 971 999;$85 000 000
+177;In the Land of Women;Warner Independent Pictures;Comedy;$5 908 658;$9 308 837;$11 052 958;$3 087 444;$9 691 414;$10 500 000
+178;Premonition;Sony Pictures;Thriller/Suspense;$22 090 745;$34 242 317;$47 852 604;$33 608 739;$33 205 167;
+179;Becoming Jane;Miramax;Drama;;$6 148 661;$18 663 911;$18 640 726;$8 050 112;$16 500 000
+180;The Protector;Weinstein Co.;Action;$6 583 847;$9 940 816;$12 044 087;$31 000 000;$13 059 709;$5 700 000
+181;Crank;Lionsgate;Action;$15 058 504;$21 713 622;$27 838 408;$5 986 288;$28 754 050;$12 000 000
+182;The Hitcher;Focus Features;Thriller/Suspense;$9 800 045;;$16 379 582;$4 476 064;;
+183;The History Boys;Fox Searchlight;Comedy;;;$2 730 296;$10 695 293;;$3 700 000
+184;Gracie;PictureHouse;Drama;$1 939 458;;$2 956 339;$80 397;;$9 000 000
+185;Firehouse Dog;20th Century Fox;Comedy;;;$13 932 383;$3 366 768;$17 210 792;
+186;The Santa Clause 3: The Escape Clause;Buena Vista;Comedy;$24 159 405;$43 401 458;$84 500 122;$23 000 000;$76 815 057;
+187;Step Up;Buena Vista;Drama;$29 580 830;$44 232 438;$65 328 121;$50 000 000;$51 183 795;$12 000 000
+188;Open Season;Sony Pictures;Adventure;$28 128 740;$48 154 270;$85 105 259;$104 796 444;$96 372 487;$85 000 000
+189;The Last Mimzy;New Line;Adventure;$12 192 019;$17 318 613;$21 471 047;$5 149 714;$21 227 639;
+190;The Reaping;Warner Bros.;Horror;;;$25 126 214;$37 100 000;$19 733 449;$40 000 000
+191;Talladega Nights: The Ballad of Ricky Bobby;Sony Pictures;Comedy;$68 216 958;$100 585 876;$148 213 377;$14 800 000;$84 806 563;$73 000 000
+192;Hollywoodland;Focus Features;Drama;$7 799 599;$11 434 376;$14 426 251;;;
+193;Rocky Balboa;MGM;Drama;;;$70 269 899;$85 450 189;$34 655 821;$24 000 000
+194;A Mighty Heart;Paramount Vantage;Drama;$5 418 140;$7 757 609;$9 176 787;$9 755 330;$5 434 934;$15 000 000
+195;Mr. Bean's Holiday;Universal;Comedy;$13 000 430;;$33 302 167;$196 397 938;$28 162 446;$25 000 000
+196;Joshua;Fox Searchlight;Thriller/Suspense;$74 590;$400 745;$482 355;$233 349;;
+197;Flags of Our Fathers;Dreamworks SKG;Drama;$13 576 213;$22 131 112;$33 602 376;$28 300 000;$45 095 837;$53 000 000
+198;Little Miss Sunshine;Fox Searchlight;Comedy;;;$59 891 098;$40 632 083;$55 497 574;$8 000 000
+199;Garfield's A Tail of Two Kitties;20th Century Fox;Comedy;;;$28 426 747;$113 275 517;$18 693 368;
+200;Letters from Iwo Jima;Dreamworks SKG;Drama;;;$13 756 082;$55 000 000;$13 618 088;$13 000 000
+201;Daddy's Little Girls;Lionsgate;Romantic Comedy;;;$31 366 978;$150 081;$31 456 820;
+202;Harry Potter and the Order of the Phoenix;Warner Bros.;Adventure;;$217 083 411;$292 004 738;$646 464 126;$220 651 146;$150 000 000
+203;Marie-Antoinette;Sony Pictures;Drama;$6 906 276;$10 733 964;$15 962 471;$44 900 000;$16 617 894;$40 000 000
+204;The Departed;Warner Bros.;Drama;$37 950 891;$63 472 929;$133 311 000;$157 228 042;$140 647 116;$90 000 000
+205;Snakes on a Plane;New Line;Thriller/Suspense;$20 152 024;$28 601 000;$34 020 814;$28 000 000;$23 693 992;$33 000 000
+206;Breach;Universal;Thriller/Suspense;$14 309 725;$21 938 345;$33 000 880;$1 457 899;$18 301 944;
+207;The Last King of Scotland;Fox Searchlight;Drama;;;$17 606 684;$30 756 832;$16 831 973;$6 000 000
+208;300;Warner Bros.;Action;$96 288 328;$141 843 655;$210 614 939;$245 453 242;$261 158 713;$60 000 000
+209;The Pursuit of Happyness;Sony Pictures;Drama;$38 286 895;$79 049 229;$162 586 036;$143 500 000;$90 820 939;$55 000 000
+210;The Number 23;New Line;Thriller/Suspense;$17 633 643;$26 321 000;$35 193 167;$41 400 000;$27 501 523;$32 000 000
+211;Arctic Tale;Paramount Vantage;Documentary;;;$833 532;$194 090;;
+;;;;;;;;;
