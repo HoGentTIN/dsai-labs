@@ -4,6 +4,8 @@ In this repository you will find the lab assignments for the Data Science & AI c
 The idea is that you make a copy of this repository (using the Github Classroom link you get
 during the first classes) and keep your own solutions in that repository.
 
+**BEWARE that your personal repository will be deleted after the end of this academic year, so be sure to always keep a local clone!**
+
 The repository is divided according to the different modules in the course. In each directory
 you will find a `README.md` containing the assignments. The directory `data/` contains all the
 datasets you need (and don't have to download from the Internet).
