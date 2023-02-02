@@ -29,7 +29,7 @@ Create a local clone of this repository (or download as a ZIP) and open the dire
 
 In the lab assignments, there are occasional references to sources. You can find a reference list here:
 
-kin, Ö. (2016) *Performantie van persistentiemogelijkheden in Android.* Bachelorproef. Hogeschol Gent.
+Akin, Ö. (2016) *Performantie van persistentiemogelijkheden in Android.* Bachelorproef. Hogeschol Gent.
 
 Cochran, W.G. (1954). Some Methods for Strengthening the Common χ² Tests. *Biometrics*, 10(4), 417-451.
 
