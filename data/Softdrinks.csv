@@ -1,0 +1,251 @@
+Consumer;Gender;Age;Preference
+1;F;Over 60;Our brand
+2;F;Between 40 and 60;Our brand
+3;M;Between 40 and 60;Our brand
+4;F;Over 60;Competing brand
+5;M;Between 20 and 40;Our brand
+6;F;Between 20 and 40;Competing brand
+7;F;Between 20 and 40;Our brand
+8;F;Between 40 and 60;Competing brand
+9;F;Between 20 and 40;Competing brand
+10;F;Between 40 and 60;Competing brand
+11;F;Over 60;Competing brand
+12;F;Between 20 and 40;Our brand
+13;F;Over 60;Competing brand
+14;F;Between 40 and 60;Competing brand
+15;F;Between 40 and 60;Competing brand
+16;F;Between 20 and 40;Our brand
+17;F;Between 20 and 40;Competing brand
+18;F;Between 40 and 60;Competing brand
+19;F;Over 60;Our brand
+20;F;Between 20 and 40;Our brand
+21;M;Over 60;Our brand
+22;F;Between 40 and 60;Competing brand
+23;F;Between 40 and 60;Competing brand
+24;F;Between 40 and 60;Our brand
+25;F;Between 20 and 40;Our brand
+26;M;Between 20 and 40;Our brand
+27;M;Between 20 and 40;Our brand
+28;F;Over 60;Competing brand
+29;F;Between 20 and 40;Competing brand
+30;F;Between 40 and 60;Competing brand
+31;F;Between 20 and 40;Our brand
+32;F;Between 20 and 40;Our brand
+33;F;Between 20 and 40;Competing brand
+34;F;Between 40 and 60;Competing brand
+35;F;Between 20 and 40;Competing brand
+36;F;Between 40 and 60;Our brand
+37;F;Between 40 and 60;Our brand
+38;M;Between 20 and 40;Our brand
+39;F;Between 20 and 40;Competing brand
+40;F;Between 40 and 60;Competing brand
+41;M;Less than 20;Our brand
+42;M;Less than 20;Our brand
+43;F;Between 40 and 60;Our brand
+44;F;Over 60;Competing brand
+45;M;Less than 20;Competing brand
+46;F;Between 20 and 40;Competing brand
+47;M;Between 20 and 40;Our brand
+48;F;Over 60;Our brand
+49;F;Between 20 and 40;Competing brand
+50;F;Between 20 and 40;Our brand
+51;F;Between 40 and 60;Our brand
+52;F;Between 20 and 40;Our brand
+53;F;Over 60;Competing brand
+54;F;Between 40 and 60;Competing brand
+55;F;Between 20 and 40;Competing brand
+56;F;Over 60;Competing brand
+57;F;Between 40 and 60;Competing brand
+58;M;Between 40 and 60;Our brand
+59;F;Between 20 and 40;Competing brand
+60;M;Over 60;Our brand
+61;F;Between 20 and 40;Our brand
+62;M;Between 20 and 40;Competing brand
+63;F;Over 60;Competing brand
+64;M;Between 40 and 60;Our brand
+65;M;Between 40 and 60;Our brand
+66;F;Between 20 and 40;Competing brand
+67;F;Between 40 and 60;Our brand
+68;M;Over 60;Competing brand
+69;F;Between 20 and 40;Our brand
+70;M;Between 20 and 40;Competing brand
+71;F;Over 60;Competing brand
+72;M;Over 60;Competing brand
+73;F;Between 40 and 60;Competing brand
+74;F;Between 20 and 40;Our brand
+75;F;Between 40 and 60;Our brand
+76;M;Between 40 and 60;Competing brand
+77;F;Between 40 and 60;Our brand
+78;M;Between 20 and 40;Our brand
+79;F;Between 40 and 60;Our brand
+80;F;Between 20 and 40;Competing brand
+81;M;Over 60;Our brand
+82;M;Between 40 and 60;Competing brand
+83;F;Between 40 and 60;Our brand
+84;F;Between 20 and 40;Our brand
+85;M;Less than 20;Our brand
+86;F;Between 40 and 60;Our brand
+87;M;Between 40 and 60;Our brand
+88;M;Between 20 and 40;Our brand
+89;F;Between 40 and 60;Our brand
+90;M;Between 40 and 60;Competing brand
+91;M;Between 40 and 60;Competing brand
+92;M;Between 20 and 40;Our brand
+93;F;Between 20 and 40;Competing brand
+94;F;Over 60;Competing brand
+95;F;Between 20 and 40;Competing brand
+96;F;Between 20 and 40;Our brand
+97;F;Between 20 and 40;Competing brand
+98;F;Over 60;Competing brand
+99;F;Between 20 and 40;Competing brand
+100;F;Between 20 and 40;Competing brand
+101;F;Less than 20;Competing brand
+102;F;Over 60;Competing brand
+103;F;Less than 20;Competing brand
+104;F;Between 20 and 40;Our brand
+105;M;Less than 20;Our brand
+106;F;Between 20 and 40;Our brand
+107;F;Between 20 and 40;Our brand
+108;M;Less than 20;Our brand
+109;M;Between 20 and 40;Competing brand
+110;F;Between 40 and 60;Competing brand
+111;F;Between 40 and 60;Our brand
+112;F;Between 20 and 40;Our brand
+113;M;Less than 20;Our brand
+114;M;Between 40 and 60;Our brand
+115;F;Between 20 and 40;Competing brand
+116;M;Over 60;Competing brand
+117;M;Over 60;Our brand
+118;F;Between 20 and 40;Competing brand
+119;F;Between 20 and 40;Competing brand
+120;F;Between 20 and 40;Competing brand
+121;F;Over 60;Competing brand
+122;F;Between 20 and 40;Our brand
+123;F;Between 40 and 60;Competing brand
+124;F;Between 40 and 60;Our brand
+125;F;Between 20 and 40;Our brand
+126;F;Between 20 and 40;Competing brand
+127;M;Between 40 and 60;Competing brand
+128;M;Between 20 and 40;Our brand
+129;F;Between 40 and 60;Our brand
+130;F;Between 20 and 40;Competing brand
+131;F;Over 60;Our brand
+132;M;Over 60;Competing brand
+133;M;Between 20 and 40;Our brand
+134;F;Between 20 and 40;Competing brand
+135;F;Between 40 and 60;Our brand
+136;F;Over 60;Competing brand
+137;F;Over 60;Competing brand
+138;F;Between 20 and 40;Competing brand
+139;F;Between 20 and 40;Competing brand
+140;F;Between 40 and 60;Our brand
+141;F;Between 20 and 40;Our brand
+142;M;Over 60;Our brand
+143;F;Between 40 and 60;Competing brand
+144;F;Between 20 and 40;Competing brand
+145;F;Less than 20;Competing brand
+146;F;Between 20 and 40;Competing brand
+147;M;Between 20 and 40;Competing brand
+148;F;Between 20 and 40;Our brand
+149;M;Over 60;Competing brand
+150;M;Over 60;Our brand
+151;F;Between 20 and 40;Competing brand
+152;F;Between 40 and 60;Competing brand
+153;F;Between 20 and 40;Our brand
+154;F;Between 20 and 40;Competing brand
+155;F;Between 40 and 60;Competing brand
+156;M;Between 20 and 40;Our brand
+157;F;Between 40 and 60;Our brand
+158;F;Between 20 and 40;Our brand
+159;F;Over 60;Our brand
+160;F;Between 20 and 40;Our brand
+161;F;Over 60;Our brand
+162;F;Between 20 and 40;Competing brand
+163;F;Between 20 and 40;Competing brand
+164;F;Between 20 and 40;Competing brand
+165;F;Between 20 and 40;Competing brand
+166;F;Between 20 and 40;Competing brand
+167;F;Between 40 and 60;Competing brand
+168;M;Between 20 and 40;Our brand
+169;M;Less than 20;Our brand
+170;F;Between 40 and 60;Our brand
+171;F;Over 60;Our brand
+172;M;Over 60;Our brand
+173;F;Between 20 and 40;Competing brand
+174;M;Less than 20;Competing brand
+175;F;Less than 20;Our brand
+176;M;Between 20 and 40;Our brand
+177;F;Between 20 and 40;Competing brand
+178;F;Between 20 and 40;Our brand
+179;F;Between 20 and 40;Our brand
+180;F;Between 20 and 40;Our brand
+181;M;Less than 20;Our brand
+182;F;Between 20 and 40;Our brand
+183;F;Over 60;Competing brand
+184;M;Between 20 and 40;Our brand
+185;F;Less than 20;Our brand
+186;F;Between 20 and 40;Our brand
+187;F;Between 40 and 60;Our brand
+188;M;Between 40 and 60;Competing brand
+189;M;Between 40 and 60;Competing brand
+190;F;Between 20 and 40;Our brand
+191;F;Less than 20;Competing brand
+192;F;Less than 20;Our brand
+193;F;Over 60;Our brand
+194;F;Between 20 and 40;Our brand
+195;M;Between 40 and 60;Competing brand
+196;F;Between 40 and 60;Our brand
+197;M;Over 60;Our brand
+198;F;Between 40 and 60;Our brand
+199;F;Over 60;Competing brand
+200;F;Between 20 and 40;Our brand
+201;F;Between 40 and 60;Our brand
+202;M;Between 40 and 60;Our brand
+203;F;Over 60;Competing brand
+204;F;Less than 20;Our brand
+205;F;Between 40 and 60;Competing brand
+206;F;Between 20 and 40;Our brand
+207;F;Between 20 and 40;Our brand
+208;F;Between 20 and 40;Our brand
+209;M;Between 20 and 40;Competing brand
+210;F;Over 60;Our brand
+211;F;Between 40 and 60;Our brand
+212;F;Between 20 and 40;Competing brand
+213;F;Less than 20;Our brand
+214;F;Between 20 and 40;Our brand
+215;M;Over 60;Our brand
+216;F;Between 20 and 40;Competing brand
+217;F;Between 40 and 60;Our brand
+218;M;Between 40 and 60;Our brand
+219;F;Between 20 and 40;Our brand
+220;F;Less than 20;Our brand
+221;F;Between 20 and 40;Our brand
+222;F;Between 40 and 60;Our brand
+223;M;Between 40 and 60;Competing brand
+224;F;Over 60;Our brand
+225;F;Between 20 and 40;Competing brand
+226;M;Between 40 and 60;Competing brand
+227;F;Over 60;Competing brand
+228;M;Less than 20;Our brand
+229;F;Over 60;Competing brand
+230;F;Between 20 and 40;Our brand
+231;F;Between 20 and 40;Competing brand
+232;F;Over 60;Our brand
+233;F;Over 60;Our brand
+234;M;Between 40 and 60;Competing brand
+235;F;Between 20 and 40;Our brand
+236;F;Between 40 and 60;Our brand
+237;F;Between 20 and 40;Our brand
+238;F;Between 40 and 60;Our brand
+239;F;Between 40 and 60;Our brand
+240;F;Between 40 and 60;Competing brand
+241;F;Between 40 and 60;Our brand
+242;F;Between 20 and 40;Our brand
+243;F;Between 20 and 40;Competing brand
+244;F;Over 60;Our brand
+245;F;Between 40 and 60;Competing brand
+246;M;Between 40 and 60;Competing brand
+247;F;Between 20 and 40;Competing brand
+248;F;Between 40 and 60;Our brand
+249;M;Between 20 and 40;Competing brand
+250;M;Over 60;Competing brand
