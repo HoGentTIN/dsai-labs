@@ -1,0 +1,464 @@
+Player;Team;Position;Annual Salary;Contract Yrs;Contract Amt;Contract Thru
+Bibby, Mike;Atlanta Hawks;G;$14.983.603 ;1;$14.983.603 ;2008-09
+Johnson, Joe;Atlanta Hawks;G;$14.232.566 ;5;$70.000.000 ;2009-10
+Smith, Josh;Atlanta Hawks;F;$10.000.000 ;5;$58.000.000 ;2012-13
+Claxton, Speedy;Atlanta Hawks;G;$5.757.818 ;4;$25.000.000 ;2010-11
+Williams, Marvin;Atlanta Hawks;F;$5.636.142 ;4;$18.160.000 ;2008-09(t)
+Horford, Al;Atlanta Hawks;C-F;$4.023.720 ;3;$12.080.160 ;2009-10
+Pachulia, Zaza;Atlanta Hawks;C;$4.000.000 ;4;$16.000.000 ;2008-09
+Evans, Maurice;Atlanta Hawks;F-G;$2.500.000 ;3;$7.500.000 ;2010-11
+Law, Acie;Atlanta Hawks;G;$2.071.680 ;3;$6.214.920 ;2009-10
+Murray, Ronald;Atlanta Hawks;G;$1.500.000 ;1;$1.500.000 ;2008-09
+Morris , Randolph;Atlanta Hawks;C;$797.581 ;1;$797.581 ;2008-09
+Jones , Solomon;Atlanta Hawks;F;$797.581 ;3;$2.202.000 ;2008-09
+Gardner, Thomas;Atlanta Hawks;G;$711.517 ;1;$711.517 ;2008-09
+West, Mario;Atlanta Hawks;G;$711.517 ;1;$711.517 ;2008-09
+Hunter, Othello;Atlanta Hawks;F;$442.114 ;1;$442.114 ;2008-09
+Garnett, Kevin;Boston Celtics;F;$24.751.934 ;5;$100.000.000 ;2008-09 (p)
+Allen, Ray;Boston Celtics;G;$18.388.430 ;5;$80.000.000 ;2009-10
+Pierce, Paul;Boston Celtics;F;$18.077.903 ;5;$59.000.000 ;2010-11
+Perkins, Kendrick;Boston Celtics;C;$4.078.880 ;5;$16.000.000 ;2010-11
+Scalabrine, Brian;Boston Celtics;F-C;$3.206.897 ;5;$15.000.000 ;2009-10
+House, Eddie;Boston Celtics;G;$2.700.000 ;2;$5.600.000 ;2009-10
+Allen, Tony;Boston Celtics;G;$2.500.000 ;5;$5.000.000 ;2009-10
+Rondo , Rajon;Boston Celtics;G;$1.315.080 ;4;$5.783.000 ;2009-10 (t)
+Giddens, J.R.;Boston Celtics;G;$957.120 ;5;$8.053.278 ;2012-13
+Powe , Leon;Boston Celtics;F;$797.581 ;3;$1.917.000 ;2008-09
+Pruitt, Gabe;Boston Celtics;G;$711.517 ;4;$2.187.014 ;2010-11
+Davis, Glen;Boston Celtics;F;$711.517 ;3;$1.138.680 ;2009-10
+Walker, Bill;Boston Celtics;G-F;$542.114 ;4;$3.049.023 ;2011-12
+Okafor, Emeka;Charlotte Bobcats;C-F;$9.537.500 ;6;$72.000.000 ;2013-14
+Wallace, Gerald;Charlotte Bobcats;F;$9.500.000 ;6;$57.000.000 ;2012-13 (p)
+Diaw, Boris;Charlotte Bobcats;F-C;$9.000.000 ;5;$45.000.000 ;2011-12 (p)
+Howard, Juwan;Charlotte Bobcats;F;$6.286.548 ;6;$36.900.000 ;2008-09 (p)
+Radmanovic, Vladimir;Charlotte Bobcats;F;$6.049.400 ;5;$31.000.000 ;2010-11
+Mohammed, Nazr;Charlotte Bobcats;C;$6.049.400 ;5;$31.000.000 ;2010-11 (t)
+Diop, DeSagana;Charlotte Bobcats;C;$5.585.000 ;5;$34.000.000 ;2012-13
+Bell, Raja;Charlotte Bobcats;G;$5.000.000 ;5;$24.000.000 ;2009-10
+Felton, Raymond;Charlotte Bobcats;G;$4.148.715 ;4;$13.330.000 ;2008-09 (t)
+Sean, May;Charlotte Bobcats;F;$2.661.026 ;3;$5.202.180 ;2007-08
+Augustin, D.J.;Charlotte Bobcats;G;$2.208.960 ;5;$14.745.926 ;2012-13
+Ajinca, Alexis;Charlotte Bobcats;C;$1.276.320 ;5;$9.623.114 ;2012-13
+Singletary, Sean;Charlotte Bobcats;G;$442.114 ;1;$442.114 ;2008-09
+Johnson, Linton;Charlotte Bobcats;F;$125.379 ;1;$125.379 ;2008-09
+Brown , Andre;Charlotte Bobcats;F;$107.908 ;1;$107.908 ;2008-09
+Martin, Cartier;Charlotte Bobcats;F;$26.007 ;1;$26.007 ;2008-09
+Hughes, Larry;Chicago Bulls;F;$12.827.676 ;5;$60.000.000 ;2009-10
+Hinrich, Kirk;Chicago Bulls;G;$10.000.000 ;5;$47.500.000 ;2010-11
+Deng, Luol;Chicago Bulls;F;$9.385.000 ;4;$81.000.000 ;2013-14
+Nocioni, Andres;Chicago Bulls;F;$8.000.000 ;5;$37.500.000 ;2011-12 (t)
+Gooden, Drew;Chicago Bulls;F-C;$7.151.183 ;3;$23.000.000 ;2008-09
+Gordon, Ben;Chicago Bulls;G;$6.404.749 ;4;$15.712.000 ;2007-08 (t)
+Rose, Derrick;Chicago Bulls;G;$4.822.800 ;5;$31.638.968 ;2012-13
+Thomas , Tyrus;Chicago Bulls;F;$3.749.880 ;4;$15.260.000 ;2009-10 (t)
+Noah, Joakim;Chicago Bulls;C-F;$2.295.480 ;5;$11.115.727 ;2011-12 (t)
+Sefolosha , Thabo;Chicago Bulls;F-G;$1.931.160 ;4;$8.180.000 ;2009-10 (t)
+Simmons , Cedric;Chicago Bulls;F;$1.742.760 ;4;$7.559.000 ;2009-10 (t)
+Ruffin, Michael;Chicago Bulls;F-C;$1.141.838 ;1;$770.610 ;2007-08
+Hunter, Lindsey;Chicago Bulls;G;$1.136.048 ;2;$4.500.000 ;2007-08
+Gray, Aaron;Chicago Bulls;C;$711.517 ;3;$1.138.680 ;2009-10
+Curry, JamesOn;Chicago Bulls;G;$100.000 ;1;$100.000 ;2008-09
+Wallace, Ben;Cleveland Cavaliers;F-C;$14.500.000 ;4;$60.000.000 ;2009-10
+James, LeBron;Cleveland Cavaliers;F;$14.410.581 ;4;$63.000.000 ;2009-10 (p)
+Szczerbiak, Wally;Cleveland Cavaliers;G-F;$13.275.000 ;6;$65.000.000 ;2008-09
+Ilgauskas, Zydrunas;Cleveland Cavaliers;C;$10.841.615 ;5;$55.000.000 ;2009-10
+Williams, Maurice;Cleveland Cavaliers;G;$8.353.000 ;4;$35.013.000 ;2011-12
+Snow, Eric;Cleveland Cavaliers;G;$7.312.500 ;4;$25.600.000 ;2008-09
+Varejao, Anderson;Cleveland Cavaliers;C-F;$5.784.480 ;3;$17.000.000 ;2009-10 (p)
+Pavlovic, Sasha;Cleveland Cavaliers;G-F;$4.696.250 ;2;$9.838.750 ;2009-10
+West, Delonte;Cleveland Cavaliers;G;$3.850.000 ;3;$12.500.000 ;2010-11
+Gibson , Daniel;Cleveland Cavaliers;G;$3.700.000 ;5;$20.800.000 ;2012-13
+Hickson, J.J.;Cleveland Cavaliers;F;$1.329.480 ;5;$9.999.706 ;2012-13
+Wright, Lorenzen;Cleveland Cavaliers;F-C;$1.262.475 ;2;$6.000.000 ;2007-08
+Kinsey , Tarence;Cleveland Cavaliers;G;$797.581 ;2;$1.100.000 ;2007-08
+Jackson, Darnell;Cleveland Cavaliers;F;$442.114 ;2;$1.178.534 ;2009-10
+Williams, Jawad;Cleveland Cavaliers;F;$239.311 ;1;$239.311 ;2008-09
+Kidd, Jason;Dallas Mavericks;G;$21.372.000 ;6;$103.570.000 ;2008-09
+Nowitzki, Dirk;Dallas Mavericks;F;$18.077.904 ;3;$60.000.000 ;2010-11 (p)
+Dampier, Erick;Dallas Mavericks;C;$11.553.000 ;7;$73.000.000 ;2010-11
+Howard, Josh;Dallas Mavericks;F-G;$9.945.000 ;4;$40.000.000 ;2010-11 (t)
+Terry, Jason;Dallas Mavericks;G;$9.696.000 ;6;$57.000.000 ;2011-12
+Stackhouse, Jerry;Dallas Mavericks;G-F;$7.000.000 ;3;$21.000.000 ;2009-10
+Carroll, Matt;Dallas Mavericks;G;$5.050.000 ;6;$27.000.000 ;2011-12
+Wright, Antoine;Dallas Mavericks;G-F;$1.800.000 ;2;$4.000.000 ;2009-10
+George, Devean;Dallas Mavericks;F;$1.600.000 ;2;$4.000.000 ;2009-10
+Williams , Shawne;Dallas Mavericks;F;$1.572.960 ;4;$6.827.000 ;2009-10 (t)
+Barea , Jose Juan;Dallas Mavericks;G;$1.500.000 ;3;$5.000.000 ;2010-11
+Hollins , Ryan;Dallas Mavericks;C;$972.581 ;2;$1.100.000 ;2007-08
+Green, Gerald;Dallas Mavericks;G;$826.269 ;4;$6.260.000 ;2008-09 (t)
+Bass, Brandon;Dallas Mavericks;F;$826.269 ;1;$770.610 ;2007-08
+Singleton, James;Dallas Mavericks;F;$711.517 ;1;$711.517 ;2008-09
+Martin, Kenyon;Denver Nuggets;F;$14.431.818 ;7;$91.000.000 ;2010-11
+Anthony, Carmelo;Denver Nuggets;F;$14.410.581 ;5;$80.000.000 ;2011-12
+Billups, Chauncey;Denver Nuggets;G;$11.050.000 ;5;$60.000.000 ;2011-12
+Hilario, Nene;Denver Nuggets;C-F;$9.680.000 ;4;$43.160.000 ;2011-12
+Smith, J.R.;Denver Nuggets;G;$4.985.001 ;3;$16.500.000 ;2010-11
+Hunter, Steven;Denver Nuggets;F-C;$3.862.600 ;5;$16.500.000 ;2009-10
+Petro, Johan;Denver Nuggets;C;$1.939.893 ;4;$4.960.000 ;2008-09 (t)
+Kleiza, Linas;Denver Nuggets;F-G;$1.824.493 ;4;$4.661.000 ;2008-09 (t)
+Balkman , Renaldo;Denver Nuggets;F;$1.369.920 ;4;$5.870.000 ;2009-10 (t)
+Carter, Anthony;Denver Nuggets;G;$1.147.533 ;1;$770.610 ;2007-08
+Andersen, Chris;Denver Nuggets;F-C;$998.000 ;1;$998.000 ;2008-09
+Jones, Dahntay;Denver Nuggets;G-F;$926.678 ;1;$626.823 ;2007-08
+Weems, Sonny;Denver Nuggets;G-F;$442.114 ;1;$442.114 ;2008-09
+Iverson, Allen;Detroit Pistons;G;$20.840.625 ;6;$90.200.000 ;2008-09
+Wallace, Rasheed;Detroit Pistons;C-F;$13.680.000 ;6;$60.000.000 ;2008-09
+Hamilton, Richard;Detroit Pistons;G;$10.812.500 ;3;$34.000.000 ;2011-12
+Prince, Tayshaun;Detroit Pistons;F;$9.500.000 ;6;$49.760.000 ;2010-11
+McDyess, Antonio;Detroit Pistons;F-C;$6.813.050 ;2;$14.500.000 ;2008-09
+Brown, Kwame;Detroit Pistons;C;$4.000.000 ;2;$8.000.000 ;2009-10
+Johnson, Amir;Detroit Pistons;F;$3.666.667 ;3;$11.000.000 ;2009-10
+Herrmann , Walter;Detroit Pistons;F;$2.000.000 ;2;$3.744.000 ;2007-08
+Jason, Maxiell;Detroit Pistons;F;$1.877.752 ;4;$20.000.000 ;2011-12
+Stuckey, Rodney;Detroit Pistons;G;$1.687.320 ;5;$8.930.403 ;2011-12 (t)
+Afflalo, Arron;Detroit Pistons;G;$1.015.440 ;5;$5.952.253 ;2011-12 (t)
+Bynum, Will;Detroit Pistons;G;$711.517 ;2;$1.537.014 ;2009-10
+Sharpe, Walter;Detroit Pistons;F;$442.114 ;2;$1.178.534 ;2009-10
+Ellis, Monta;Golden State Warriors;G;$11.000.000 ;6;$66.000.000 ;2013-14
+Biedrins, Andris;Golden State Warriors;C;$9.000.000 ;3;$62.000.000 ;2013-14
+Crawford, Jamal;Golden State Warriors;G;$8.640.000 ;7;$55.440.000 ;2009-10 (p)
+Maggette, Corey;Golden State Warriors;F;$8.600.000 ;5;$50.000.000 ;2012-13
+Jackson, Stephen;Golden State Warriors;F-G;$7.140.000 ;3;$28.000.000 ;2010-11
+Turiaf, Ronny;Golden State Warriors;F;$4.500.000 ;4;$17.000.000 ;2011-12
+Azubuike , Kelenna;Golden State Warriors;F-G;$2.900.000 ;3;$9.000.000 ;2010-11
+Wright, Brandan;Golden State Warriors;F;$2.497.320 ;5;$12.072.441 ;2011-12 (t)
+Perovic, Kosta;Golden State Warriors;C;$1.944.000 ;3;$5.000.000 ;2009-10
+Randolph, Anthony;Golden State Warriors;F;$1.709.280 ;5;$12.473.314 ;2012-13
+Belinelli, Marco;Golden State Warriors;G;$1.446.720 ;5;$7.717.764 ;2011-12 (t)
+Williams , Marcus;Golden State Warriors;G;$1.262.520 ;4;$5.617.000 ;2009-10 (t)
+Watson, CJ;Golden State Warriors;G;$711.517 ;1;$251.272 ;2007-08
+Morrow, Anthony;Golden State Warriors;G;$442.114 ;2;$1.178.534 ;2009-10
+Hendrix, Richard;Golden State Warriors;F;$442.114 ;1;$442.114 ;2008-09
+Kurz, Rob;Golden State Warriors;F;$425.939 ;1;$425.939 ;2008-09
+Davidson, Jermareo;Golden State Warriors;F;$418.539 ;2;$1.138.680 ;2008-09
+Nelson, DeMarcus;Golden State Warriors;G;$182.047 ;1;$182.047 ;2008-09
+Dowell, Dion;Golden State Warriors;G;$25.000 ;1;$25.000 ;2008-09
+McGrady, Tracy;Houston Rockets;G;$19.614.000 ;4;$80.282.000 ;2009-10
+Yao, Ming;Houston Rockets;C;$15.070.550 ;3;$49.134.975 ;2010-11
+Artest, Ron;Houston Rockets;F;$7.400.000 ;6;$42.000.000 ;2008-09 (p)
+Battier, Shane;Houston Rockets;F;$6.373.900 ;6;$36.800.000 ;2010-11
+Alston, Rafer;Houston Rockets;G;$4.900.000 ;6;$26.250.000 ;2009-10
+Scola, Luis;Houston Rockets;F-C;$3.150.000 ;4;$9.450.000 ;2010-11
+Landry, Carl;Houston Rockets;F;$3.000.000 ;3;$9.000.000 ;2010-11
+Head, Luther;Houston Rockets;G;$1.962.378 ;4;$5.109.000 ;2008-09
+Hayes, Chuck;Houston Rockets;F;$1.933.750 ;1;$1.500.000 ;2007-08 (t)
+Barry, Brent;Houston Rockets;G;$1.910.000 ;2;$3.900.000 ;2009-10
+Brooks, Aaron;Houston Rockets;G;$1.045.560 ;5;$6.113.436 ;2011-12
+Dorsey, Joey;Houston Rockets;F;$816.500 ;4;$3.657.920 ;2011-12
+Wafer, Von;Houston Rockets;G;$797.581 ;1;$770.610 ;2007-08
+Mutombo, Dikembe;Houston Rockets;C;$787.066 ;1;$770.610 ;2007-08
+Murphy, Troy;Indiana Pacers;F-C;$10.126.984 ;6;$58.000.000 ;2010-11
+Dunleavy, Mike;Indiana Pacers;F-G;$9.000.000 ;5;$45.000.000 ;2010-11
+Nesterovic, Rasho;Indiana Pacers;C;$8.400.000 ;6;$42.000.000 ;2007-08
+Ford, T.J.;Indiana Pacers;G;$8.275.000 ;4;$33.000.000 ;2010-11 (p)
+Daniels, Marquis;Indiana Pacers;G;$6.864.200 ;6;$36.750.000 ;2009-10 (t)
+Tinsley, Jamaal;Indiana Pacers;G;$6.750.000 ;6;$39.000.000 ;2010-11
+Foster, Jeff;Indiana Pacers;C;$5.500.000 ;6;$30.000.000 ;2008-09
+Granger, Danny;Indiana Pacers;F-G;$2.329.805 ;5;$65.000.000 ;2012-13
+Jack, Jarrett;Indiana Pacers;G;$2.002.623 ;4;$5.420.000 ;2008-09 (t)
+Jones, Eddie;Indiana Pacers;G-F;$1.976.400 ;2;$4.000.000 ;2008-09
+Baston, Maceo;Indiana Pacers;F;$1.976.400 ;2;$3.800.000 ;2008-09
+Rush, Brandon;Indiana Pacers;G;$1.799.160 ;5;$12.848.076 ;2012-13
+Diener, Travis;Indiana Pacers;G;$1.620.000 ;3;$4.900.000 ;2009-10 (p)
+Hibbert, Roy;Indiana Pacers;C;$1.465.440 ;5;$10.969.759 ;2012-13
+Graham, Stephen;Indiana Pacers;F;$826.269 ;1;$770.610 ;2007-08
+McRoberts, Josh;Indiana Pacers;F;$711.517 ;3;$1.138.680 ;2008-09
+Randolph, Zach;Los Angeles Clippers;F-C;$14.666.667 ;6;$84.000.000 ;2010-11
+Davis, Baron;Los Angeles Clippers;G;$11.250.000 ;5;$65.000.000 ;2012-13
+Camby, Marcus;Los Angeles Clippers;C-F;$10.000.000 ;6;$35.100.000 ;2009-10
+Kaman, Chris;Los Angeles Clippers;C;$9.500.000 ;5;$52.500.000 ;2011-12
+Gordon, Eric;Los Angeles Clippers;G;$2.623.200 ;5;$17.428.561 ;2012-13
+Hart, Jason;Los Angeles Clippers;G;$2.484.000 ;2;$5.000.000 ;2008-09
+Davis, Ricky;Los Angeles Clippers;F-G;$2.300.000 ;2;$4.700.000 ;2009-10
+Thornton, Al;Los Angeles Clippers;F;$1.776.240 ;5;$9.243.267 ;2011-12 (t)
+Skinner, Brian;Los Angeles Clippers;F-C;$1.262.275 ;4;$20.700.000 ;2007-08 (p)
+Collins , Mardy;Los Angeles Clippers;G;$1.034.760 ;4;$4.770.000 ;2009-10 (t)
+Davis , Paul;Los Angeles Clippers;C;$797.581 ;1;$797.581 ;2008-09
+Novak , Steve;Los Angeles Clippers;F;$797.581 ;3;$2.090.000 ;2008-09 (t)
+Samb, Cheick;Los Angeles Clippers;C;$711.517 ;1;$711.517 ;2008-09
+Acker, Alex;Los Angeles Clippers;G;$711.517 ;1;$711.517 ;2008-09
+Jones, Fred;Los Angeles Clippers;G;$616.658 ;3;$11.000.000 ;2008-09
+Jordan, DeAndre;Los Angeles Clippers;C;$550.000 ;3;$2.140.809 ;2010-11
+Taylor, Mike;Los Angeles Clippers;G;$500.000 ;3;$2.090.809 ;2010-11
+Adams , Hassan;Los Angeles Clippers;G;$301.348 ;1;$301.348 ;2008-09
+Bryant, Kobe;Los Angeles Lakers;G;$21.262.500 ;7;$136.400.000 ;2010-11 (p)
+Gasol, Pau;Los Angeles Lakers;F-C;$15.106.000 ;6;$86.000.000 ;2010-11
+Odom, Lamar;Los Angeles Lakers;F;$14.148.596 ;6;$71.700.000 ;2008-09
+Fisher, Derek;Los Angeles Lakers;G;$4.700.000 ;3;$14.000.000 ;2009-10
+Vujacic, Sasha;Los Angeles Lakers;G;$4.524.887 ;3;$15.000.000 ;2010-11
+Walton, Luke;Los Angeles Lakers;F;$4.420.000 ;6;$30.000.000 ;2012-13
+Adam, Morrison;Los Angeles Lakers;F;$4.159.200 ;2;$7.504.560 ;2007-08
+Ariza, Trevor;Los Angeles Lakers;F;$3.100.000 ;3;$9.300.000 ;2008-09 (p)
+Bynum, Andrew;Los Angeles Lakers;C;$2.769.300 ;4;$58.000.000 ;2011-12
+Mihm, Chris;Los Angeles Lakers;C;$2.500.000 ;2;$5.000.000 ;2008-09
+Farmar , Jordan;Los Angeles Lakers;G;$1.080.000 ;4;$4.976.000 ;2009-10 (t)
+Mbenga, D.J.;Los Angeles Lakers;C;$880.658 ;3;$5.300.000 ;2008-09
+Powell, Josh;Los Angeles Lakers;F-C;$854.957 ;1;$800.000 ;2007-08
+Brown , Shannon;Los Angeles Lakers;G;$797.581 ;4;$5.140.000 ;2009-10 (t)
+Yue, Sun;Los Angeles Lakers;G;$442.114 ;2;$1.178.534 ;2009-10
+Francis, Steve;Memphis Grizzlies;G;$18.364.000 ;2;$5.000.000 ;2009-10
+Walker, Antoine;Memphis Grizzlies;F;$9.052.460 ;1;$9.052.460 ;2008-09
+Dorsey, Joey;Memphis Grizzlies;F;$9.000.000 ;3;$26.250.000 ;2009-10
+Milicic, Darko;Memphis Grizzlies;C-F;$7.020.000 ;3;$21.000.000 ;2009-10
+Jaric, Marko;Memphis Grizzlies;G;$6.575.000 ;6;$40.000.000 ;2010-11
+Buckner, Greg;Memphis Grizzlies;G;$4.010.005 ;5;$29.500.000 ;2010-11 (p)
+Mayo, O.J.;Memphis Grizzlies;G;$3.875.040 ;5;$30.362.210 ;2012-13
+Conley, Mike;Memphis Grizzlies;G;$3.630.480 ;4;$19.907.543 ;2011-12
+Gasol, Marc;Memphis Grizzlies;C;$3.093.333 ;3;$10.000.000 ;2010-11
+Gay , Rudy;Memphis Grizzlies;F;$2.579.400 ;4;$10.541.000 ;2009-10 (t)
+Warrick, Hakim;Memphis Grizzlies;F;$2.119.102 ;4;$5.978.000 ;2008-09 (t)
+Stoudamire, Damon;Memphis Grizzlies;G;$1.630.719 ;4;$17.000.000 ;2008-09
+Haddadi, Hamed;Memphis Grizzlies;C;$1.572.221 ;3;$4.800.000 ;2010-11
+Lowry , Kyle;Memphis Grizzlies;G;$1.163.520 ;4;$5.298.000 ;2009-10
+Arthur, Darrell;Memphis Grizzlies;F;$977.160 ;5;$8.184.656 ;2012-13
+Ross, Quinton;Memphis Grizzlies;F-G;$797.581 ;4;$2.800.000 ;2007-08 (t)
+Beasley, Michael;Memphis Grizzlies;G;$359.670 ;1;$359.670 ;2008-09
+Wade, Dwyane;Miami Heat;G;$14.410.581 ;4;$63.000.000 ;2010-11 (p)
+Blount, Mark;Miami Heat;C-F;$8.513.916 ;6;$38.500.000 ;2009-10
+Haslem, Udonis;Miami Heat;F-C;$6.575.000 ;5;$30.700.000 ;2009-10
+Beasley, Michael;Miami Heat;F;$4.314.960 ;5;$28.350.510 ;2012-13
+Jones, James;Miami Heat;F;$4.000.000 ;4;$11.000.000 ;2008-09 (p)
+Wright, Dorell;Miami Heat;G-F;$2.612.835 ;2;$5.000.000 ;2009-10
+Parker, Smush;Miami Heat;G;$2.430.000 ;1;$2.430.000 ;2008-09
+Cook, Daequan;Miami Heat;G;$1.273.200 ;5;$6.946.484 ;2011-12
+Magloire, Jamaal;Miami Heat;C;$1.141.838 ;1;$3.750.000 ;2007-08
+Quinn , Chris;Miami Heat;G;$972.581 ;2;$2.000.000 ;2009-10
+Diawara , Yakhouba;Miami Heat;F-G;$800.000 ;2;$1.100.000 ;2007-08
+Johnson , Alexander;Miami Heat;F;$797.581 ;1;$797.581 ;2008-09
+Anthony, Joel;Miami Heat;C;$711.517 ;3;$1.138.680 ;2009-10
+Chalmers, Mario;Miami Heat;G;$700.000 ;3;$2.310.839 ;2010-11
+Richards, Jason;Miami Heat;G;$442.114 ;6;$70.000.000 ;2010-11
+Lasme, Stephane;Miami Heat;F;$300.000 ;1;$300.000 ;2008-09
+Padgett, David;Miami Heat;C;$35.000 ;1;$35.000 ;2008-09
+Redd, Michael;Milwaukee Bucks;G;$15.780.000 ;6;$90.000.000 ;2010-11 (p)
+Jefferson, Richard;Milwaukee Bucks;F;$13.200.000 ;6;$76.000.000 ;2010-11 (p)
+Ridnour, Luke;Milwaukee Bucks;G;$6.500.000 ;3;$18.000.000 ;2009-10
+Bogut, Andrew;Milwaukee Bucks;C;$6.294.307 ;5;$72.500.000 ;2012-13
+Gadzuric, Dan;Milwaukee Bucks;C;$6.250.195 ;6;$36.000.000 ;2010-11
+Jones, Damon;Milwaukee Bucks;G;$4.460.186 ;4;$16.100.000 ;2008-09
+Villanueva, Charlie;Milwaukee Bucks;F;$3.448.050 ;4;$11.060.000 ;2008-09 (t)
+Bell, Charlie;Milwaukee Bucks;G;$3.354.480 ;5;$18.500.000 ;2011-12
+Bogans, Keith;Milwaukee Bucks;G-F;$2.550.000 ;3;$8.000.000 ;2008-09
+Lue, Tyronn;Milwaukee Bucks;G;$2.500.000 ;3;$11.340.000 ;2007-08
+Alexander, Joe;Milwaukee Bucks;F;$2.403.120 ;5;$16.003.932 ;2012-13
+Allen, Malik;Milwaukee Bucks;F;$1.500.000 ;2;$3.000.000 ;2009-10
+Storey, Awvee;Milwaukee Bucks;G-F;$826.269 ;1;$770.610 ;2007-08
+Sessions, Ramon;Milwaukee Bucks;G;$711.517 ;3;$1.138.680 ;2009-10
+Mbah a Moute, Luc;Milwaukee Bucks;F;$442.114 ;3;$2.032.923 ;2010-11
+Jefferson, Al;Minnesota Timberwolves;C-F;$11.000.000 ;5;$65.000.000 ;2011-12
+Miller, Mike;Minnesota Timberwolves;G-F;$9.128.575 ;6;$47.250.000 ;2009-10
+Cardinal, Brian;Minnesota Timberwolves;F;$6.300.000 ;6;$36.800.000 ;2009-10
+Collins, Jason;Minnesota Timberwolves;C;$6.200.000 ;5;$25.000.000 ;2008-09
+Hudson, Troy;Minnesota Timberwolves;G;$5.041.000 ;6;$34.670.000 ;2009-10
+Gomes, Ryan;Minnesota Timberwolves;F;$3.500.000 ;5;$20.500.000 ;2012-13
+Love, Kevin;Minnesota Timberwolves;F;$3.163.680 ;5;$20.925.164 ;2012-13
+Foye , Randy;Minnesota Timberwolves;G;$2.815.560 ;4;$11.471.000 ;2009-10 (t)
+Brewer, Corey;Minnesota Timberwolves;F-G;$2.725.920 ;5;$13.144.116 ;2011-12 (t)
+Madsen, Mark;Minnesota Timberwolves;F;$2.630.000 ;5;$10.000.000 ;2009-10
+McCants, Rashad;Minnesota Timberwolves;G;$2.620.126 ;4;$7.581.406 ;2008-09 (t)
+Smith , Craig;Minnesota Timberwolves;F;$2.500.000 ;2;$5.000.000 ;2009-10
+Telfair, Sebastian;Minnesota Timberwolves;G;$2.300.000 ;3;$7.500.000 ;2010-11
+Carney , Rodney;Minnesota Timberwolves;F;$1.655.760 ;4;$7.183.000 ;2009-10 (t)
+Booth, Calvin;Minnesota Timberwolves;C;$1.147.533 ;1;$1.103.225 ;2007-08
+Ollie, Kevin;Minnesota Timberwolves;G;$797.581 ;5;$15.000.000 ;2007-08
+Carter, Vince;New Jersey Nets;G;$14.724.125 ;5;$78.000.000 ;2011-12
+Simmons, Bobby;New Jersey Nets;F;$9.920.000 ;5;$47.000.000 ;2009-10
+Harris, Devin;New Jersey Nets;G;$7.800.000 ;3;$12.837.000 ;2007-08
+Swift, Stromile;New Jersey Nets;F-C;$6.200.000 ;4;$22.400.000 ;2008-09
+Hassell, Trenton;New Jersey Nets;F;$4.350.000 ;6;$26.000.000 ;2009-10 (p)
+Dooling, Keyon;New Jersey Nets;G;$3.300.000 ;3;$10.500.000 ;2010-11
+Najera, Eduardo;New Jersey Nets;F;$3.250.000 ;4;$12.000.000 ;2011-12
+Jianlian, Yi;New Jersey Nets;F;$2.986.080 ;4;$15.634.345 ;2011-12
+Lopez, Brook;New Jersey Nets;C;$2.098.560 ;5;$14.035.594 ;2012-13
+Hayes, Jarvis;New Jersey Nets;F;$1.910.000 ;2;$4.000.000 ;2009-10
+Williams, Sean;New Jersey Nets;F-C;$1.522.920 ;5;$8.101.928 ;2011-12 (t)
+Anderson, Ryan;New Jersey Nets;F;$1.225.200 ;5;$9.430.431 ;2012-13
+Boone , Josh;New Jersey Nets;C;$1.212.120 ;4;$5.456.000 ;2009-10 (t)
+Ager , Maurice;New Jersey Nets;F-G;$1.042.440 ;4;$4.800.000 ;2009-10 (t)
+Douglas-Roberts, Chris;New Jersey Nets;G;$442.000 ;2;$1.178.000 ;2009-10
+Stojakovic, Peja;New Orleans Hornets;F;$12.528.000 ;5;$64.000.000 ;2010-11
+Chandler, Tyson;New Orleans Hornets;C;$11.400.000 ;6;$64.000.000 ;2010-11
+West, David;New Orleans Hornets;F;$9.862.000 ;5;$45.000.000 ;2011-12
+Daniels, Antonio;New Orleans Hornets;G;$6.200.000 ;5;$30.000.000 ;2009-10
+Posey, James;New Orleans Hornets;F;$5.585.000 ;4;$25.000.000 ;2011-12
+Peterson, Morris;New Orleans Hornets;G;$5.400.000 ;4;$23.000.000 ;2010-11
+Paul, Chris;New Orleans Hornets;G;$4.574.189 ;4;$68.000.000 ;2011-12
+Butler, Rasual;New Orleans Hornets;G-F;$3.630.000 ;4;$14.000.000 ;2009-10
+Armstrong , Hilton;New Orleans Hornets;C-F;$2.032.800 ;4;$8.502.000 ;2009-10 (t)
+Wright, Julian;New Orleans Hornets;F;$1.869.600 ;5;$9.561.453 ;2011-12 (t)
+Marks, Sean;New Orleans Hornets;F-C;$1.141.838 ;1;$770.610 ;2007-08
+Ely, Melvin;New Orleans Hornets;C-F;$998.398 ;1;$895.341 ;2007-08
+Brown, Devin;New Orleans Hornets;G-F;$998.398 ;1;$1.200.000 ;2007-08 (t)
+Bowen, Ryan;New Orleans Hornets;F;$797.581 ;1;$1.033.930 ;2008-09
+Marbury, Stephon;New York Knicks;G;$20.840.625 ;4;$76.000.000 ;2008-09
+Curry, Eddy;New York Knicks;C;$9.723.983 ;6;$60.000.000 ;2009-10 (p)
+Harrington, Al;New York Knicks;F;$9.226.550 ;4;$35.300.000 ;2009-10 (p)
+Richardson, Quentin;New York Knicks;F-G;$8.685.500 ;6;$43.500.000 ;2009-10 (p)
+Mobley, Cuttino;New York Knicks;G;$8.425.000 ;5;$42.000.000 ;2009-10
+Rose, Malik;New York Knicks;F;$7.647.500 ;7;$42.000.000 ;2007-08 (p)
+James, Jerome;New York Knicks;C;$6.200.000 ;5;$30.000.000 ;2009-10 (p)
+Jeffries, Jared;New York Knicks;C-F;$6.049.400 ;5;$30.000.000 ;2010-11
+Thomas, Tim;New York Knicks;F;$6.049.400 ;4;$24.000.000 ;2009-10
+Duhon, Chris;New York Knicks;G;$5.585.000 ;2;$12.000.000 ;2009-10
+Gallinari, Danilo;New York Knicks;F;$2.873.520 ;5;$19.047.005 ;2012-13
+Robinson, Nate;New York Knicks;G;$2.020.179 ;4;$5.580.000 ;2008-09 (t)
+Lee, David;New York Knicks;C-F;$1.788.033 ;4;$4.566.000 ;2008-09 (t)
+Chandler, Wilson;New York Knicks;F;$1.173.480 ;5;$6.620.411 ;2011-12 (t)
+Roberson, Anthony;New York Knicks;G;$797.581 ;2;$1.658.968 ;2009-10
+Wilcox, Chris;Oklahoma City Thunder;C;$6.750.000 ;3;$24.000.000 ;2008-09
+Collison, Nick;Oklahoma City Thunder;F-C;$6.250.000 ;4;$26.000.000 ;2010-11
+Watson, Earl;Oklahoma City Thunder;G;$6.200.000 ;5;$29.000.000 ;2009-10
+Mason, Desmond;Oklahoma City Thunder;G-F;$5.400.000 ;2;$11.000.000 ;2008-09
+Smith, Joe;Oklahoma City Thunder;F;$4.795.000 ;2;$10.000.000 ;2008-09
+Krstic, Nenad;Oklahoma City Thunder;C;$4.778.548 ;3;$15.600.000 ;2010-11
+Durant, Kevin;Oklahoma City Thunder;F-G;$4.484.040 ;5;$21.352.150 ;2010-11 (t)
+Swift, Robert;Oklahoma City Thunder;C;$3.579.131 ;4;$7.895.000 ;2007-08 (t)
+Westbrook, Russell;Oklahoma City Thunder;G;$3.493.680 ;5;$23.053.162 ;2012-13
+Green, Jeff;Oklahoma City Thunder;F;$3.284.640 ;5;$15.768.441 ;2010-11
+Atkins, Chucky;Oklahoma City Thunder;G;$3.240.000 ;2;$6.600.000 ;2008-09 (t)
+Wilkins, Damien;Oklahoma City Thunder;G-F;$3.100.000 ;5;$15.000.000 ;2009-10 (p)
+Sene , Mouhamed;Oklahoma City Thunder;C;$2.252.400 ;4;$9.189.000 ;2009-10 (t)
+Elson, Francisco;Oklahoma City Thunder;C-F;$1.700.000 ;2;$6.000.000 ;2007-08
+White, D.J.;Oklahoma City Thunder;F;$964.080 ;5;$8.112.118 ;2012-13
+Weaver, Kyle;Oklahoma City Thunder;G;$806.452 ;4;$3.612.904 ;2011-12
+Hill, Steven;Oklahoma City Thunder;C;$423.909 ;1;$423.909 ;2008-09
+Brown, Bobby;Oklahoma City Thunder;G;$32.842 ;1;$32.842 ;2008-09
+Lewis, Rashard;Orlando Magic;F;$16.447.871 ;6;$118.200.000 ;2012-13
+Howard, Dwight;Orlando Magic;C;$13.041.250 ;5;$80.000.000 ;2011-12
+Foyle, Adonal;Orlando Magic;C;$8.200.000 ;2;$7.600.000 ;2009-10
+Nelson, Jameer;Orlando Magic;G;$7.600.000 ;5;$35.000.000 ;2011-12 (p)
+Turkoglu, Hedo;Orlando Magic;F;$6.864.200 ;6;$36.770.000 ;2008-09 (p)
+Hunter, Othello;Orlando Magic;C-F;$5.746.000 ;4;$22.000.000 ;2009-10
+Pietrus, Mickael;Orlando Magic;G-F;$4.900.000 ;4;$21.500.000 ;2011-12
+Cook, Brian;Orlando Magic;F;$3.500.000 ;3;$10.500.000 ;2009-10 (p)
+Redick , J.J.;Orlando Magic;G;$2.139.720 ;4;$8.840.000 ;2009-10 (t)
+Johnson, Anthony;Orlando Magic;G;$1.900.000 ;2;$3.800.000 ;2009-10
+Lee, Courtney;Orlando Magic;G;$1.176.240 ;5;$9.240.347 ;2012-13
+Wilks, Mike;Orlando Magic;G;$1.040.000 ;1;$217.584 ;2007-08
+Jones, Dwayne;Orlando Magic;F-C;$826.969 ;1;$770.610 ;2007-08
+Richardson, Jeremy;Orlando Magic;G-F;$769.431 ;1;$305.798 ;2007-08
+Gortat, Marcin;Orlando Magic;F-C;$711.517 ;3;$1.138.680 ;2009-10
+Brand, Elton;Philadelphia 76ers;F;$13.757.844 ;5;$82.170.000 ;2012-13
+Iguodala, Andre;Philadelphia 76ers;G-F;$11.300.000 ;6;$80.000.000 ;2013-14
+Dalembert, Samuel;Philadelphia 76ers;C;$11.138.564 ;6;$58.000.000 ;2010-11
+Miller, Andre;Philadelphia 76ers;G;$10.233.333 ;6;$51.000.000 ;2008-09
+Marshall, Donyell;Philadelphia 76ers;F;$5.950.894 ;4;$22.000.000 ;2008-09
+Evans, Reggie;Philadelphia 76ers;F;$4.640.000 ;5;$23.000.000 ;2010-11
+Williams, Louis;Philadelphia 76ers;G;$4.500.000 ;5;$25.000.000 ;2012-13
+Green, Willie;Philadelphia 76ers;G;$3.388.000 ;5;$17.000.000 ;2010-11
+Young, Thaddeus;Philadelphia 76ers;F;$1.968.120 ;5;$9.896.348 ;2011-12 (t)
+Douglas-Roberts, Chris;Philadelphia 76ers;F;$1.573.000 ;2;$3.102.873 ;2008-09
+Speights, Marreese;Philadelphia 76ers;F-C;$1.542.600 ;5;$11.519.458 ;2012-13
+Smith, Jason;Philadelphia 76ers;F;$1.326.360 ;5;$7.114.359 ;2011-12 (t)
+Ratliff, Theo;Philadelphia 76ers;C;$1.262.375 ;3;$36.000.000 ;2007-08
+Rush, Kareem;Philadelphia 76ers;G;$998.398 ;1;$770.610 ;2007-08
+Ivey, Royal;Philadelphia 76ers;G;$854.957 ;1;$770.610 ;2007-08
+O'Neal, Shaquille;Phoenix Suns;C;$20.000.000 ;5;$100.000.000 ;2009-10
+Stoudemire, Amare;Phoenix Suns;F-C;$15.070.550 ;3;$49.134.975 ;2010-11
+Nash, Steve;Phoenix Suns;G;$12.250.000 ;6;$66.000.000 ;2009-10 (t)
+Richardson, Jason;Phoenix Suns;G;$12.222.221 ;6;$70.000.000 ;2010-11
+Barbosa, Leandro;Phoenix Suns;G;$6.100.000 ;5;$33.000.000 ;2010-11 (p)
+Hill, Grant;Phoenix Suns;F-G;$1.976.400 ;2;$3.800.000 ;2008-09
+Dragic, Goran;Phoenix Suns;G;$1.700.000 ;4;$7.616.000 ;2011-12
+Lopez, Robin;Phoenix Suns;C-F;$1.623.720 ;5;$12.101.079 ;2012-13
+Dudley, Jared;Phoenix Suns;F;$1.222.320 ;5;$6.781.706 ;2010-11 (t)
+Barnes, Matt;Phoenix Suns;F;$1.200.000 ;1;$3.000.000 ;2007-08
+Tucker, Alando;Phoenix Suns;F;$1.001.880 ;5;$5.907.202 ;2011-12 (t)
+Amundson , Louis;Phoenix Suns;F;$797.581 ;1;$687.456 ;2007-08(t)
+Brown , Dee;Phoenix Suns;G;$242.753 ;1;$242.753 ;2008-09
+Sims, Courtney;Phoenix Suns;C;$41.854 ;1;$41.854 ;2008-09
+LaFrentz, Raef;Portland Trail Blazers;C-F;$12.722.500 ;7;$69.974.000 ;2008-09
+Przybilla, Joel;Portland Trail Blazers;C;$6.310.150 ;5;$32.000.000 ;2010-11
+Greg, Oden;Portland Trail Blazers;C;$5.011.680 ;5;$23.823.601 ;2011-12 (t)
+Aldridge , LaMarcus;Portland Trail Blazers;F-C;$4.631.400 ;4;$18.833.000 ;2009-10 (t)
+Blake, Steve;Portland Trail Blazers;G;$4.590.000 ;3;$12.000.000 ;2009-10
+Outlaw, Travis;Portland Trail Blazers;F;$4.000.000 ;3;$12.000.000 ;2009-10
+Webster, Martell;Portland Trail Blazers;G-F;$3.771.133 ;4;$20.000.000 ;2011-12
+Frye, Channing;Portland Trail Blazers;F-C;$3.163.769 ;4;$10.140.000 ;2008-09
+Roy , Brandon;Portland Trail Blazers;G;$3.084.240 ;4;$12.560.000 ;2009-10 (t)
+Diogu, Ike;Portland Trail Blazers;F;$2.912.822 ;4;$9.325.000 ;2008-09 (t)
+Bayless, Jerryd;Portland Trail Blazers;G;$1.993.560 ;5;$13.636.402 ;2012-13
+Rodriguez , Sergio;Portland Trail Blazers;G;$1.048.800 ;4;$4.833.000 ;2009-10 (t)
+Fernandez, Rudy;Portland Trail Blazers;G-F;$1.047.840 ;5;$8.568.268 ;2012-13
+Batum, Nicolas;Portland Trail Blazers;F;$1.040.640 ;5;$8.677.636 ;2012-13
+Randolph, Shavlik;Portland Trail Blazers;F;$826.269 ;2;$2.080.000 ;2007-08
+Miller, Brad;Sacramento Kings;C;$11.375.000 ;7;$67.000.000 ;2009-10
+Martin, Kevin;Sacramento Kings;G;$9.260.335 ;5;$50.000.000 ;2011-12
+Thomas, Kenny;Sacramento Kings;F;$8.562.000 ;7;$50.000.000 ;2009-10
+Abdur-Rahim, Shareef;Sacramento Kings;F;$6.200.000 ;2;$12.800.000 ;2009-10
+Jackson, Bobby;Sacramento Kings;G;$6.090.000 ;3;$17.010.000 ;2008-09
+Moore, Mikki;Sacramento Kings;F-C;$5.784.480 ;3;$18.000.000 ;2009-10
+Udrih, Beno;Sacramento Kings;G;$5.585.000 ;5;$34.000.000 ;2012-13
+Salmons, John;Sacramento Kings;F-G;$5.104.000 ;5;$25.500.000 ;2010-11
+Williams , Shelden;Sacramento Kings;F-C;$3.395.760 ;4;$13.825.000 ;2009-10 (t)
+Hawes, Spencer;Sacramento Kings;F-C;$2.180.760 ;5;$10.593.184 ;2011-12 (t)
+Garcia, Francisco;Sacramento Kings;G-F;$1.983.453 ;5;$30.000.000 ;2012-13
+Thompson, Jason;Sacramento Kings;F;$1.893.840 ;5;$13.238.811 ;2012-13
+Douby , Quincy;Sacramento Kings;G;$1.427.040 ;4;$6.120.000 ;2009-10 (t)
+Cassell, Sam;Sacramento Kings;G;$1.262.275 ;2;$13.000.000 ;2007-08
+Greene, Donte;Sacramento Kings;F;$971.160 ;5;$8.151.581 ;2012-13
+Brown, Bobby;Sacramento Kings;G;$442.114 ;2;$1.178.534 ;2009-10
+Duncan, Tim;San Antonio Spurs;F-C;$20.598.704 ;2;$40.000.000 ;2008-09
+Parker, Tony;San Antonio Spurs;G;$11.550.000 ;6;$66.000.000 ;2010-11
+Ginobili, Manu;San Antonio Spurs;G;$9.905.248 ;6;$52.000.000 ;2009-10
+Thomas, Kurt;San Antonio Spurs;C-F;$4.200.000 ;2;$8.000.000 ;2009-10
+Bowen, Bruce;San Antonio Spurs;F;$4.000.000 ;2;$8.000.000 ;2008-09
+Oberto, Fabricio;San Antonio Spurs;C-F;$3.600.000 ;3;$10.500.000 ;2009-10
+Mason, Roger;San Antonio Spurs;G;$3.500.000 ;2;$7.000.000 ;2009-10
+Bonner, Matt;San Antonio Spurs;C;$2.983.500 ;3;$9.000.000 ;2009-10
+Finley, Michael;San Antonio Spurs;F-G;$2.500.000 ;2;$5.000.000 ;2009-10
+Vaughn, Jacque;San Antonio Spurs;G;$1.262.275 ;2;$2.500.000 ;2008-09
+Udoka, Ime;San Antonio Spurs;F-G;$1.080.000 ;2;$2.000.000 ;2008-09
+Hill, George;San Antonio Spurs;G;$1.006.200 ;5;$8.400.866 ;2012-13
+Mahinmi, Ian;San Antonio Spurs;C;$841.000 ;5;$5.118.179 ;2011-12 (t)
+Croshere, Austin;San Antonio Spurs;F;$601.436 ;1;$601.436 ;2008-09
+Hairston, Malik;San Antonio Spurs;G;$299.077 ;1;$299.077 ;2008-09
+Ahearn, Blake;San Antonio Spurs;G;$205.084 ;1;$205.084 ;2008-09
+Tolliver, Anthony;San Antonio Spurs;C;$187.248 ;1;$187.248 ;2008-09
+Farmer, Desmon;San Antonio Spurs;G;$83.708 ;1;$83.708 ;2008-09
+O'Neal, Jermaine;Toronto Raptors;C-F;$21.372.000 ;7;$126.590.000 ;2007-08 (p)
+Marion, Shawn;Toronto Raptors;F;$17.810.000 ;6;$79.000.000 ;2008-09
+Bosh, Chris;Toronto Raptors;F;$14.410.581 ;4;$63.000.000 ;2011-12 (p)
+Calderon, Jose;Toronto Raptors;G;$7.348.018 ;5;$40.000.000 ;2012-13
+Kapono, Jason;Toronto Raptors;G-F;$5.784.480 ;4;$24.000.000 ;2010-11 (p)
+Bargnani , Andrea;Toronto Raptors;C-F;$5.176.440 ;4;$21.044.000 ;2009-10 (t)
+Parker , Anthony;Toronto Raptors;G;$4.550.000 ;3;$12.000.000 ;2008-09
+Banks, Marcus;Toronto Raptors;G;$4.260.000 ;5;$21.000.000 ;2010-11
+Garbajosa , Jorge;Toronto Raptors;F;$4.250.000 ;3;$12.000.000 ;2008-09
+Humphries, Kris;Toronto Raptors;F;$3.200.000 ;3;$9.000.000 ;2009-10 (p)
+Graham, Joey;Toronto Raptors;F;$2.449.184 ;4;$6.930.000 ;2008-09 (t)
+Ukic, Roko;Toronto Raptors;G;$1.250.000 ;3;$4.000.000 ;2010-11
+Voskuhl, Jake;Toronto Raptors;C;$835.491 ;2;$4.000.000 ;2007-08
+O'Bryant , Patrick;Toronto Raptors;C;$797.581 ;4;$9.670.000 ;2009-10 (t)
+Moon, Jamario;Toronto Raptors;F;$711.517 ;3;$1.138.680 ;2009-10
+Solomon, Willie;Toronto Raptors;G;$711.517 ;1;$711.517 ;2008-09
+Jawai, Nathan;Toronto Raptors;F;$442.114 ;2;$1.178.534 ;2009-10
+Kirilenko, Andrei;Utah Jazz;F;$15.106.000 ;6;$86.000.000 ;2010-11
+Boozer, Carlos;Utah Jazz;F;$11.593.817 ;6;$70.000.000 ;2008-09 (p)
+Okur, Mehmet;Utah Jazz;C-F;$9.000.000 ;6;$50.000.000 ;2009-20 (p)
+Harpring, Matt;Utah Jazz;F;$6.000.000 ;4;$25.000.000 ;2009-10
+Williams, Deron;Utah Jazz;G;$5.069.449 ;4;$63.700.000 ;2011-12
+Korver, Kyle;Utah Jazz;G-F;$4.881.818 ;6;$27.000.000 ;2010-11
+Miles, C.J.;Utah Jazz;F-G;$3.700.000 ;4;$15.000.000 ;2011-12
+Collins, Jarron;Utah Jazz;C;$2.074.302 ;3;$7.000.000 ;2008-09
+Knight, Brevin;Utah Jazz;G;$2.000.000 ;2;$4.000.000 ;2008-09
+Brewer , Ronnie;Utah Jazz;G;$1.834.680 ;4;$7.862.000 ;2009-10
+Price, Ronnie;Utah Jazz;G;$1.188.000 ;1;$1.100.000 ;2007-08
+Koufos, Kosta;Utah Jazz;C;$1.129.320 ;5;$9.052.309 ;2012-13
+Almond, Morris;Utah Jazz;G;$1.081.440 ;3;$2.087.400 ;2009-10
+Fesenko, Kyrylo;Utah Jazz;C;$810.000 ;4;$2.430.000 ;2010-11 (t)
+Millsap , Paul;Utah Jazz;F;$797.581 ;3;$2.110.000 ;2008-09
+Arenas, Gilbert;Washington Wizards;G;$14.653.466 ;6;$111.000.000 ;2013-14
+Jamison, Antawn;Washington Wizards;F;$9.923.285 ;4;$50.000.000 ;2011-12
+Butler, Caron;Washington Wizards;F;$9.249.980 ;6;$48.450.000 ;2010-11
+Thomas, Etan;Washington Wizards;C;$6.864.200 ;2;$14.218.700 ;2009-10
+James, Mike;Washington Wizards;G;$6.244.083 ;4;$23.400.000 ;2009-10
+Haywood, Brendan;Washington Wizards;C;$5.500.000 ;5;$25.000.000 ;2009-10
+Songaila, Darius;Washington Wizards;F;$4.234.000 ;5;$23.000.000 ;2010-11
+Stevenson, DeShawn;Washington Wizards;G;$3.616.071 ;4;$16.000.000 ;2010-11 (p)
+Blatche, Andray;Washington Wizards;C;$2.739.669 ;4;$12.000.000 ;2010-11
+Young, Nick;Washington Wizards;G;$1.602.960 ;5;$8.504.857 ;2011-12 (t)
+Pecherov, Oleksiy;Washington Wizards;C-F;$1.446.720 ;5;$7.717.764 ;2011-12 (t)
+McGee, JaVale;Washington Wizards;C-F;$1.392.240 ;5;$10.446.465 ;2012-13
+Dixon, Juan;Washington Wizards;G;$998.398 ;3;$8.000.000 ;2007-08
+McGuire, Dominic;Washington Wizards;F;$711.517 ;4;$1.964.177 ;2010-11
