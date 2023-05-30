@@ -2,7 +2,7 @@
 
 ## Description
 
-These data were collected in a study of how data on various characteristics of the bloood varied with sport body size and sex of the athlete.
+These data were collected in a study of how data on various characteristics of the blood varied with sport body size and sex of the athlete.
 
 ## Format
 
