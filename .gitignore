@@ -132,3 +132,6 @@ dmypy.json
 
 # User local IDEA configuration files
 .idea/
+
+# Ignore directory for generated pdfs
+pdf/
