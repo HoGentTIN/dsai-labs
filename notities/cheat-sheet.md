@@ -23,6 +23,53 @@ ais = pd.read_csv('../data/ais.csv', delimiter=',')
 
 - General information
 ```python
+# Set the known identifier as the index
+titanic.set_index(['PassengerId'])
+
+# Convert Quantitative to Qualitative (categorical)
+
+titanic.Survived = titanic.Survived.astype('category')
+
+# Mark variables as ordianal 
+# (S, C and Q are locations where passangers embarked and this was in order or ports)
+# Order will always be respected including in graphs
+
+embarked_type = CategoricalDtype(categories=['S', 'C', 'Q'], ordered=True)
+titanic.Embarked = titanic.Embarked.astype(embarked_type)
+
+# Select all data from a single variable
+titanic['Age']
+
+# Select multible columns
+titanic[['Name', 'Age', 'Cabin']] # Note: two sets of square brackets!
+
+# Select the *5th* observation (ENTRY
+titanic.iloc[5]
+
+# Select the first 4 ovebservations (ENTRY)
+titanic.iloc[0:4]
+
+# Select observations where the value of Age is less than 18
+titanic[titanic.Age < 18]  
+
+# The same, but only keep the column 'Embarked'
+titanic[titanic.Age < 18].Embarked
+
+# The same, but keep columns 'Age' and 'Embarked'
+titanic[titanic['Age'] < 18][['Age', 'Embarked']]
+
+# Select all boys younger than 10
+titanic.query("(Sex=='male') and (Age < 18)")
+
+# Drop column
+titanic.drop("PassengerId", axis="columns", inplace="true") # inplace true changes the dataframe itself, without it you can copy the dataframe to a variable were it will be dropped
+
+# Drop any row that has at least one missing value
+cleaned = titanic.dropna() 
+
+# Drop only rows that consist of nothing but missing values
+cleaned = titanic.dropna(how="all") 
+
 # Show the first 5 records of the dataframe
 ais.head()
 
@@ -47,6 +94,8 @@ print(f"{number:.2f}")
 sns.boxplot(
     data={'Regular': regular, 'Additives': additives}
 ```
+
+
 
 # Math symbols
 
